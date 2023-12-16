@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nhom19_Mobile_FoodOrdering</string>
+    <string name="food_ordering">image_splash!</string>
+    <string name="waves_of_food">Waves Of Food</string>
+    <string name="deliver_favourite_food">Deliver Favourite Food</string>
+    <string name="design_by_n19">Design By\nN19</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
